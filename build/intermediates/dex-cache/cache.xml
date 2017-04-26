@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\NerdLaucher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e9073389ce35b50be60f3742bcb39fe7e727ac9">
+        <dex dex="C:\Android_Porjects\NerdLaucher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_105f60c3517576a0662584048adf02b24a2166ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\NerdLaucher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android_Porjects\NerdLaucher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4bf822e529334042780020481b66a69e6c60f52b\classes.dex" />
+    </item>
+
+</items>
